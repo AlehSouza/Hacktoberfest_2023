@@ -12,6 +12,13 @@ const players = [
         role: 'FrontEnd Developer',
         stacks: ['JavaScript', 'TypeScript', 'React.js'],
         linkedin: 'https://www.linkedin.com/in/alehsouza/',
+    },
+    {
+        image: 'https://avatars.githubusercontent.com/u/45085584?v=4',
+        name: 'Igor Nascimento',
+        role: 'Full Stack Developer',
+        stacks: ['TypeScript', 'Angular', 'Node', 'Express', 'Jest'],
+        linkedin: 'https://www.linkedin.com/in/irgor/',
     }
 ]
 
